@@ -1,0 +1,41 @@
+"","Competition_Name","Gender","Country","Season_End_Year","Squad","Team_or_Opponent","Num_Players","Mins_Per_90","CrdY","CrdR","2CrdY","Fls","Fld","Off","Crs","Int","TklW","PKwon","PKcon","OG","Recov","Won_Aerial_Duels","Lost_Aerial_Duels","Won_percent_Aerial_Duels"
+"1","Campeonato Brasileiro Série A","M","BRA",2023,"América (MG)","team",46,38,89,10,3,550,460,62,730,374,342,1,8,3,2051,594,526,53
+"2","Campeonato Brasileiro Série A","M","BRA",2023,"Ath Paranaense","team",40,38,109,4,1,580,505,67,685,358,342,3,7,0,1834,576,605,48.8
+"3","Campeonato Brasileiro Série A","M","BRA",2023,"Atlético Mineiro","team",31,38,113,5,1,599,475,61,655,351,485,5,2,1,1946,484,561,46.3
+"4","Campeonato Brasileiro Série A","M","BRA",2023,"Bahia","team",35,38,99,5,3,549,512,54,705,398,433,3,6,1,1939,540,494,52.2
+"5","Campeonato Brasileiro Série A","M","BRA",2023,"Botafogo (RJ)","team",36,38,91,4,1,515,489,41,703,412,375,6,1,1,1859,554,552,50.1
+"6","Campeonato Brasileiro Série A","M","BRA",2023,"Bragantino","team",35,38,108,6,1,603,470,52,918,399,392,2,8,1,2257,602,645,48.3
+"7","Campeonato Brasileiro Série A","M","BRA",2023,"Corinthians","team",36,38,91,3,0,475,509,55,650,324,365,5,7,1,1781,525,468,52.9
+"8","Campeonato Brasileiro Série A","M","BRA",2023,"Coritiba","team",47,38,124,5,3,586,531,62,626,384,417,6,10,2,1900,570,609,48.3
+"9","Campeonato Brasileiro Série A","M","BRA",2023,"Cruzeiro","team",38,38,101,4,2,570,471,71,812,336,390,3,3,0,1942,529,569,48.2
+"10","Campeonato Brasileiro Série A","M","BRA",2023,"Cuiabá","team",30,38,90,3,3,473,564,77,828,295,411,7,4,2,1824,613,493,55.4
+"11","Campeonato Brasileiro Série A","M","BRA",2023,"Flamengo","team",32,38,85,5,0,493,519,51,640,299,411,9,7,0,1902,454,405,52.9
+"12","Campeonato Brasileiro Série A","M","BRA",2023,"Fluminense","team",37,38,122,9,4,506,560,75,707,258,339,4,6,1,1802,427,450,48.7
+"13","Campeonato Brasileiro Série A","M","BRA",2023,"Fortaleza","team",32,38,95,1,1,519,533,84,769,352,422,5,7,2,1875,567,532,51.6
+"14","Campeonato Brasileiro Série A","M","BRA",2023,"Goiás","team",42,38,107,6,3,637,577,86,701,347,382,5,5,1,1774,633,633,50
+"15","Campeonato Brasileiro Série A","M","BRA",2023,"Grêmio","team",44,38,102,5,3,480,537,59,577,341,372,4,5,1,2019,500,537,48.2
+"16","Campeonato Brasileiro Série A","M","BRA",2023,"Internacional","team",35,38,111,6,2,518,497,60,607,316,371,4,7,1,1816,450,562,44.5
+"17","Campeonato Brasileiro Série A","M","BRA",2023,"Palmeiras","team",33,38,94,4,2,583,585,100,917,298,380,3,5,1,1871,491,490,50.1
+"18","Campeonato Brasileiro Série A","M","BRA",2023,"Santos","team",46,38,105,8,3,573,549,67,725,372,433,5,6,3,1906,585,520,52.9
+"19","Campeonato Brasileiro Série A","M","BRA",2023,"São Paulo","team",38,38,106,5,3,530,532,77,664,262,346,6,9,1,1859,490,486,50.2
+"20","Campeonato Brasileiro Série A","M","BRA",2023,"Vasco da Gama","team",39,38,101,6,3,557,510,67,889,316,361,3,4,0,1853,530,568,48.3
+"21","Campeonato Brasileiro Série A","M","BRA",2023,"vs América (MG)","opponent",46,38,76,5,0,482,530,69,895,340,372,6,6,0,2096,526,591,47.1
+"22","Campeonato Brasileiro Série A","M","BRA",2023,"vs Ath Paranaense","opponent",40,38,102,4,2,523,560,63,703,305,354,5,4,0,1798,606,574,51.4
+"23","Campeonato Brasileiro Série A","M","BRA",2023,"vs Atlético Mineiro","opponent",31,38,106,7,3,504,568,55,703,383,382,1,6,1,1966,561,484,53.7
+"24","Campeonato Brasileiro Série A","M","BRA",2023,"vs Bahia","opponent",35,38,94,5,1,536,525,130,612,359,372,4,4,2,1980,494,539,47.8
+"25","Campeonato Brasileiro Série A","M","BRA",2023,"vs Botafogo (RJ)","opponent",36,38,101,2,0,521,492,91,741,344,414,1,7,2,1950,552,553,50
+"26","Campeonato Brasileiro Série A","M","BRA",2023,"vs Bragantino","opponent",35,38,95,0,0,498,579,99,545,377,465,4,3,1,2035,644,602,51.7
+"27","Campeonato Brasileiro Série A","M","BRA",2023,"vs Corinthians","opponent",36,38,98,6,4,538,458,37,880,348,351,6,6,2,1932,469,526,47.1
+"28","Campeonato Brasileiro Série A","M","BRA",2023,"vs Coritiba","opponent",47,38,97,4,2,559,559,48,867,329,410,8,9,1,1968,609,570,51.7
+"29","Campeonato Brasileiro Série A","M","BRA",2023,"vs Cruzeiro","opponent",38,38,118,4,1,497,548,113,658,335,360,3,4,3,1861,567,526,51.9
+"30","Campeonato Brasileiro Série A","M","BRA",2023,"vs Cuiabá","opponent",30,38,109,7,3,583,444,64,754,297,325,4,8,1,1859,493,611,44.7
+"31","Campeonato Brasileiro Série A","M","BRA",2023,"vs Flamengo","opponent",32,38,103,8,4,531,474,76,664,351,430,6,9,1,1916,405,453,47.2
+"32","Campeonato Brasileiro Série A","M","BRA",2023,"vs Fluminense","opponent",37,38,100,4,0,585,485,60,688,345,429,6,5,0,1770,449,427,51.3
+"33","Campeonato Brasileiro Série A","M","BRA",2023,"vs Fortaleza","opponent",32,38,100,5,1,553,488,51,673,310,359,5,7,1,1831,532,568,48.4
+"34","Campeonato Brasileiro Série A","M","BRA",2023,"vs Goiás","opponent",42,38,111,6,1,606,602,51,887,339,395,5,5,1,1849,636,630,50.2
+"35","Campeonato Brasileiro Série A","M","BRA",2023,"vs Grêmio","opponent",44,38,112,7,5,575,460,48,806,435,416,2,7,2,2073,537,499,51.8
+"36","Campeonato Brasileiro Série A","M","BRA",2023,"vs Internacional","opponent",35,38,99,8,6,526,485,61,779,320,343,6,4,1,1890,561,449,55.5
+"37","Campeonato Brasileiro Série A","M","BRA",2023,"vs Palmeiras","opponent",33,38,122,11,7,610,556,48,560,299,347,2,4,2,1734,489,490,49.9
+"38","Campeonato Brasileiro Série A","M","BRA",2023,"vs Santos","opponent",46,38,110,6,2,575,548,61,722,305,408,5,6,2,1786,519,583,47.1
+"39","Campeonato Brasileiro Série A","M","BRA",2023,"vs São Paulo","opponent",38,38,114,4,1,549,495,54,624,361,422,8,9,0,1847,486,489,49.8
+"40","Campeonato Brasileiro Série A","M","BRA",2023,"vs Vasco da Gama","opponent",39,38,89,6,0,545,529,49,747,310,415,2,4,0,1869,579,541,51.7

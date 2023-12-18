@@ -1,0 +1,41 @@
+"","Competition_Name","Gender","Country","Season_End_Year","Squad","Team_or_Opponent","Num_Players","Mins_Per_90","Gls_Standard","Sh_Standard","SoT_Standard","SoT_percent_Standard","Sh_per_90_Standard","SoT_per_90_Standard","G_per_Sh_Standard","G_per_SoT_Standard","Dist_Standard","FK_Standard","PK_Standard","PKatt_Standard","xG_Expected","npxG_Expected","npxG_per_Sh_Expected","G_minus_xG_Expected","np:G_minus_xG_Expected"
+"1","Campeonato Brasileiro Série A","M","BRA",2023,"América (MG)","team",46,38,42,510,155,30.4,13.42,4.08,0.07,0.25,19,17,4,6,46.9,42.2,0.09,-4.9,-4.2
+"2","Campeonato Brasileiro Série A","M","BRA",2023,"Ath Paranaense","team",40,38,51,551,168,30.5,14.5,4.42,0.09,0.28,19.3,23,4,4,51.1,48.2,0.09,-0.1,-1.2
+"3","Campeonato Brasileiro Série A","M","BRA",2023,"Atlético Mineiro","team",31,38,51,480,165,34.4,12.63,4.34,0.09,0.27,20.1,43,6,6,46.5,42.3,0.09,4.5,2.7
+"4","Campeonato Brasileiro Série A","M","BRA",2023,"Bahia","team",35,38,48,535,164,30.7,14.08,4.32,0.08,0.27,18.5,16,4,4,50.6,47.6,0.09,-2.6,-3.6
+"5","Campeonato Brasileiro Série A","M","BRA",2023,"Botafogo (RJ)","team",36,38,56,516,168,32.6,13.58,4.42,0.1,0.3,19.2,21,5,7,50.2,44.6,0.09,5.8,6.4
+"6","Campeonato Brasileiro Série A","M","BRA",2023,"Bragantino","team",35,38,48,635,208,32.8,16.71,5.47,0.07,0.22,19.3,27,3,3,57.8,55.4,0.09,-9.8,-10.4
+"7","Campeonato Brasileiro Série A","M","BRA",2023,"Corinthians","team",36,38,45,455,156,34.3,11.97,4.11,0.09,0.25,19.3,18,6,7,40.1,34.7,0.08,4.9,4.3
+"8","Campeonato Brasileiro Série A","M","BRA",2023,"Coritiba","team",47,38,40,420,140,33.3,11.05,3.68,0.08,0.23,20.3,30,8,9,39.1,32,0.08,0.9,0
+"9","Campeonato Brasileiro Série A","M","BRA",2023,"Cruzeiro","team",38,38,32,525,162,30.9,13.82,4.26,0.06,0.19,19.3,28,2,4,47.6,44.4,0.09,-15.6,-14.4
+"10","Campeonato Brasileiro Série A","M","BRA",2023,"Cuiabá","team",30,38,39,440,131,29.8,11.58,3.45,0.07,0.24,20.1,16,7,8,38.7,32.7,0.08,0.3,-0.7
+"11","Campeonato Brasileiro Série A","M","BRA",2023,"Flamengo","team",32,38,55,490,168,34.3,12.89,4.42,0.1,0.28,18.3,15,8,9,49.8,42.7,0.09,5.2,4.3
+"12","Campeonato Brasileiro Série A","M","BRA",2023,"Fluminense","team",37,38,51,545,202,37.1,14.34,5.32,0.09,0.24,19.5,18,3,5,50.3,46.4,0.09,0.7,1.6
+"13","Campeonato Brasileiro Série A","M","BRA",2023,"Fortaleza","team",32,38,44,540,181,33.5,14.21,4.76,0.07,0.22,19.1,30,5,7,51.4,45.9,0.09,-7.4,-6.9
+"14","Campeonato Brasileiro Série A","M","BRA",2023,"Goiás","team",42,38,35,492,133,27,12.95,3.5,0.06,0.23,19,20,5,5,36.5,32.7,0.07,-1.5,-2.7
+"15","Campeonato Brasileiro Série A","M","BRA",2023,"Grêmio","team",44,38,61,500,186,37.2,13.16,4.89,0.11,0.3,18.1,18,5,7,50,44.6,0.09,11,11.4
+"16","Campeonato Brasileiro Série A","M","BRA",2023,"Internacional","team",35,38,45,459,146,31.8,12.08,3.84,0.09,0.29,19.6,23,3,4,42.2,39,0.09,2.8,3
+"17","Campeonato Brasileiro Série A","M","BRA",2023,"Palmeiras","team",33,38,62,609,206,33.8,16.03,5.42,0.1,0.29,18.6,26,2,4,57.1,54,0.09,4.9,6
+"18","Campeonato Brasileiro Série A","M","BRA",2023,"Santos","team",46,38,37,463,146,31.5,12.18,3.84,0.07,0.21,18.1,29,6,6,42.5,37.8,0.08,-5.5,-6.8
+"19","Campeonato Brasileiro Série A","M","BRA",2023,"São Paulo","team",38,38,40,513,162,31.6,13.5,4.26,0.07,0.22,19.5,20,5,9,49,41.6,0.08,-9,-6.6
+"20","Campeonato Brasileiro Série A","M","BRA",2023,"Vasco da Gama","team",39,38,41,476,148,31.1,12.53,3.89,0.08,0.25,17,30,4,4,47.7,44.6,0.1,-6.7,-7.6
+"21","Campeonato Brasileiro Série A","M","BRA",2023,"vs América (MG)","opponent",46,38,78,592,208,35.1,15.58,5.47,0.12,0.35,18.5,26,5,8,62.8,56.3,0.1,15.2,16.7
+"22","Campeonato Brasileiro Série A","M","BRA",2023,"vs Ath Paranaense","opponent",40,38,43,499,163,32.7,13.13,4.29,0.08,0.24,19.3,20,4,7,46.6,41,0.08,-3.6,-2
+"23","Campeonato Brasileiro Série A","M","BRA",2023,"vs Atlético Mineiro","opponent",31,38,31,487,138,28.3,12.82,3.63,0.06,0.21,19.2,32,2,2,40.8,39.3,0.08,-9.8,-10.3
+"24","Campeonato Brasileiro Série A","M","BRA",2023,"vs Bahia","opponent",35,38,52,462,186,40.3,12.16,4.89,0.1,0.25,19.2,34,6,6,51.1,46.6,0.1,0.9,-0.6
+"25","Campeonato Brasileiro Série A","M","BRA",2023,"vs Botafogo (RJ)","opponent",36,38,36,494,170,34.4,13,4.47,0.07,0.21,18.9,26,0,1,48.9,48.1,0.1,-12.9,-12.1
+"26","Campeonato Brasileiro Série A","M","BRA",2023,"vs Bragantino","opponent",35,38,34,439,122,27.8,11.55,3.21,0.06,0.22,18.4,16,7,8,42.6,36.9,0.09,-8.6,-9.9
+"27","Campeonato Brasileiro Série A","M","BRA",2023,"vs Corinthians","opponent",36,38,47,621,181,29.1,16.34,4.76,0.07,0.23,20.2,24,6,7,49.2,43.8,0.07,-2.2,-2.8
+"28","Campeonato Brasileiro Série A","M","BRA",2023,"vs Coritiba","opponent",47,38,71,600,210,35,15.79,5.53,0.1,0.3,18.1,31,9,10,60.5,52.6,0.09,10.5,9.4
+"29","Campeonato Brasileiro Série A","M","BRA",2023,"vs Cruzeiro","opponent",38,38,32,414,138,33.3,10.89,3.63,0.07,0.22,18.3,17,2,3,41.7,39.3,0.1,-9.7,-9.3
+"30","Campeonato Brasileiro Série A","M","BRA",2023,"vs Cuiabá","opponent",30,38,37,465,147,31.6,12.24,3.87,0.07,0.22,19,13,4,4,42.2,39,0.09,-5.2,-6
+"31","Campeonato Brasileiro Série A","M","BRA",2023,"vs Flamengo","opponent",32,38,42,525,169,32.2,13.82,4.45,0.07,0.21,19.8,16,6,7,45.1,39.9,0.08,-3.1,-3.9
+"32","Campeonato Brasileiro Série A","M","BRA",2023,"vs Fluminense","opponent",37,38,46,534,155,29,14.05,4.08,0.08,0.26,19.7,18,5,6,48.3,43.7,0.08,-2.3,-2.7
+"33","Campeonato Brasileiro Série A","M","BRA",2023,"vs Fortaleza","opponent",32,38,42,481,155,32.2,12.66,4.08,0.08,0.25,19,23,3,7,43.8,38.4,0.08,-1.8,0.6
+"34","Campeonato Brasileiro Série A","M","BRA",2023,"vs Goiás","opponent",42,38,52,534,171,32,14.05,4.5,0.09,0.27,18.4,26,5,5,45.9,42.1,0.08,6.1,4.9
+"35","Campeonato Brasileiro Série A","M","BRA",2023,"vs Grêmio","opponent",44,38,55,609,181,29.7,16.03,4.76,0.08,0.28,19.1,19,5,5,55.3,51.4,0.09,-0.3,-1.4
+"36","Campeonato Brasileiro Série A","M","BRA",2023,"vs Internacional","opponent",35,38,44,480,157,32.7,12.63,4.13,0.08,0.24,18.2,32,6,7,47.1,41.4,0.09,-3.1,-3.4
+"37","Campeonato Brasileiro Série A","M","BRA",2023,"vs Palmeiras","opponent",33,38,32,422,144,34.1,11.11,3.79,0.07,0.19,19.7,19,4,5,39.2,35.3,0.09,-7.2,-7.3
+"38","Campeonato Brasileiro Série A","M","BRA",2023,"vs Santos","opponent",46,38,61,542,197,36.3,14.26,5.18,0.11,0.29,18.8,25,4,6,51,46.4,0.09,10,10.6
+"39","Campeonato Brasileiro Série A","M","BRA",2023,"vs São Paulo","opponent",38,38,37,450,126,28,11.84,3.32,0.06,0.23,19.9,17,8,9,36.6,29.7,0.07,0.4,-0.7
+"40","Campeonato Brasileiro Série A","M","BRA",2023,"vs Vasco da Gama","opponent",39,38,51,504,177,35.1,13.26,4.66,0.09,0.27,19.3,34,4,5,46.2,42.2,0.09,4.8,4.8
